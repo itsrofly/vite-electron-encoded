@@ -1,4 +1,4 @@
-# dynamicc
+# Project
 
 An Electron application with React and TypeScript
 
